@@ -1,11 +1,11 @@
-export default function ProdcutsPAge() {
-    const categories = [
-        {
-            title: "Waveguide Adapters",
-            description: "Precision adapters for WR-series waveguides across mmWave frequencies."
-            link: "/products/waveguide-adapters"
-        },
-        {
+export default function ProductsPage() {
+  const categories = [
+    {
+      title: "Waveguide Adapters",
+      description: "Precision adapters for WR-series waveguides across mmWave frequencies.",
+      link: "/products/waveguide-adapters"
+    },
+    {
       title: "Bends & Twists",
       description: "Low-loss routing components for compact RF system integration.",
       link: "/products/bends"
